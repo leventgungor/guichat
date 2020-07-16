@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="GUIChat">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/GUIChat.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
